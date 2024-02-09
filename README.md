@@ -3,7 +3,7 @@ Se crea este repositorio de aplicación de técnicas de aprendizaje supervisado 
 
 # Proyecto de Análisis Discriminante con Datos de Cáncer de Mama:
 
-En éste repositorio se encuentran los archivos necesarios para llevar a cabo un proceso de aprendizaje supervisado utilizando técnicas de Análisis Discriminante con datos de cáncer de mama.
+En éste repositorio se encuentran los archivos necesarios para llevar a cabo un proceso de aprendizaje supervisado utilizando técnicas de Análisis Discriminante con datos de cáncer de mama para así realizar la clasificación o predicción utilizando dichos datos biológicos.
 
 ## Estructura de Carpetas
 
@@ -23,7 +23,7 @@ En éste repositorio se encuentran los archivos necesarios para llevar a cabo un
    - Cargar los datos desde `data.csv` siguiendo el código del mismo archivo y especificando la ruta de descarga del archivo data.csv. Siguiendo el código mencionado, se obtendrá (o se puede descargar directamente) el 
      archivo data_clean, preparado para llevar a cabo el análisis discriminante.
 
-2. **Análisis Discriminante:**
+2. **Análisis Discriminante. Selección y entrenamiento del modelo. Cálculo de Exactitud y Precisión:**
    - Consultar `actividad2_resuelta.ipynb` para seguir el código que permite realizar LDA, QDA y LDA Regularizado calculando la exactitud.
    - Utilizar el archivo `codigo_python_final_actividad2.ipynb` para calcular la precisión de los análisis discriminante LDA, QDA y LDA Regularizado.
 
