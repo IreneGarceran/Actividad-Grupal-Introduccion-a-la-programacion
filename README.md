@@ -32,8 +32,8 @@ En éste repositorio se encuentran los archivos necesarios para llevar a cabo un
 
 ## Colaboradores - Todos los autores han colaborado en la misma medida en la realización de éste repositorio y actividad.
 
-- [Miembro 1](https://github.com/ARECHEM)
-- [Miembro 2](https://github.com/miembro2)
-- [Miembro 3](https://github.com/miembro3)
-- [Miembro 4](https://github.com/miembro4)
-- [Miembro 5](https://github.com/miembro5)
+- [Miembro 1](https://github.com/ARECHEM) Antonio Reche Martínez
+- [Miembro 2](https://github.com/IreneGarceran) Irene Martínez Garcerán 
+- [Miembro 3](https://github.com/paulagonmen) Paula González Méndez  
+- [Miembro 4](https://github.com/mariapena985) María Peña Serrano  
+- [Miembro 5](https://github.com/miembro5) Sara Alonso Jiménez 
