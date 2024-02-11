@@ -7,7 +7,7 @@ En éste repositorio se encuentran los archivos necesarios para llevar a cabo un
 
 ## Estructura de Carpetas
 
-- **data:** Almacenamiento de datos.
+- **Data:** Almacenamiento de datos.
   - `data.csv`: Conjunto original de datos de cáncer de mama.
   - `data_clean.csv`: Conjunto de datos preparado para el Análisis Discriminante.
   - `variables.csv`: Descripción de las variables y fuente de los datos.
